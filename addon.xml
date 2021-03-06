@@ -1,0 +1,11 @@
+﻿<addon id="rbkodimatrix" version="0.0.1" name="Rezbagoly Repo" provider-name="Rezbagoly">
+	<extension point="xbmc.addon.repository" name="Rezbagoly Repo">
+		<info compressed="false">https://github.com/rezbagoly122/rbkodimatrix/addons.xml</info>
+		<datadir zip="true">https://github.com/rezbagoly122/rbkodimatrix/addons</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Rezbagoly Repo</summary>
+		<description lang="en">Matrix addonok repo-ja</description>
+		<platform>all</platform>
+	</extension>
+</addon>
